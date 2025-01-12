@@ -1,0 +1,5 @@
+.DS_Store
+.Trash/
+Library/
+*.pyc
+__pycache__/
